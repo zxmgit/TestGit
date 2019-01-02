@@ -6,5 +6,8 @@ public class Test {
     public static void main(String[] args) {
         //打印
         System.out.println("ok");
+        System.out.println("ok");
+        System.out.println("ok");
+        System.out.println("ok");
     }
 }
